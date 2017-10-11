@@ -1,6 +1,6 @@
 #### Potential Presenters
 
-Greg Gearheart - emailed 10/5
+Greg Gearheart - emailed 10/5, responded 10/10, interested
 
 Matt Jones - emailed 10/6, responded 10/6, no but suggested others
 
