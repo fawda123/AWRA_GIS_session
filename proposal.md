@@ -1,6 +1,6 @@
 ### 2018 American Water Resources Association Spring Specialty Conference:  GIS and Water Resources X
 
-### Special Session Proposal
+### Topical Session Proposal
 
 **Title**: Open Science and the Monitoring of Aquatic Ecosystems
 
@@ -10,9 +10,10 @@ Open science represents both a philosophy and a set of tools that can be leverag
 
 #### Organizers
 
+Marcus Beck (SCCWRP).  Dr. Beck is an ecologist with the Southern California Coastal Water Research Project. He has experience in the development of open source programming tools that facilitate the analysis of water quality data from integrated monitoring networks. [marcusb@sccwrp.org](mailto:marcusb@sccwrp.org)
+
 Michael McManus (USEPA).  Dr. McManus is an ecologist at the United States Environmental Protection Agency in the Office of Research and Development at the National Center for Environmental Assessment. He has experience in the development and application of open science tools for spatial analysis of watersheds.  [mcmanus.michael@epa.gov](mailto:mcmanus.michael@epa.gov)
 
-Marcus Beck (SCCWRP).  Dr. Beck is an ecologist with the Southern California Coastal Water Research Project. He has experience in the development of open source programming tools that facilitate the analysis of water quality data from integrated monitoring networks. [marcusb@sccwrp.org](mailto:marcusb@sccwrp.org)
 
 #### Potential Presenters
 
