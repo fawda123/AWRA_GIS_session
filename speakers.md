@@ -10,9 +10,11 @@ Emily Read - emailed 10/6
 
 Laura DeCicco - emailed 10/6
 
-Jordan Read - emailed 10/6, responded 10/10 soft maybe, will let me know in a few months, suggested otheres
+Jordan Read - emailed 10/6, responded 10/10 soft maybe, will let me know in a few months, suggested others
 
 Jeff Hollister - emailed 10/6, tentative yes
+
+Tom Philippi (NPS) - emailed 10/13, tentative yes
 
 Marcus Beck (Southern California Coastal Water Research Project)
 
