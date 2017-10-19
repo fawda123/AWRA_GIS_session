@@ -10,7 +10,7 @@ Emily Read - emailed 10/6
 
 Laura DeCicco - emailed 10/6
 
-Jordan Read - emailed 10/6, responded 10/10 soft maybe, will let me know in a few months, suggested others
+Jordan Read - emailed 10/6, responded 10/10 soft maybe, will let me know in a few months, suggested others (Hilary Dugan, Dave Blodgett, Alison Appling)
 
 Jeff Hollister - emailed 10/6, tentative yes
 
