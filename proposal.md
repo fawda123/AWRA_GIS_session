@@ -13,24 +13,3 @@ Open science represents both a philosophy and a set of tools that can be leverag
 Marcus Beck (SCCWRP).  Dr. Beck is an ecologist with the Southern California Coastal Water Research Project. He has experience in the development of open source programming tools that facilitate the analysis of water quality data from integrated monitoring networks. [marcusb@sccwrp.org](mailto:marcusb@sccwrp.org)
 
 Michael McManus (USEPA).  Dr. McManus is an ecologist at the United States Environmental Protection Agency in the Office of Research and Development at the National Center for Environmental Assessment. He has experience in the development and application of open science tools for spatial analysis of watersheds.  [mcmanus.michael@epa.gov](mailto:mcmanus.michael@epa.gov)
-
-
-#### Potential Presenters
-
-Greg Gearheart (California State Water Resources Control Board)
-
-Matt Jones (National Center for Ecological Analysis and Synthesis)
-
-Leah Wasser (University of Colorado, Boulder)
-
-Emily Read (Office of Water Information, USGS)
-
-Laura DeCicco (Office of Water Informatin, USGS)
-
-Jordan Read (Office of Water Information, USGS)
-
-Jeff Hollister (National Health and Environmental Effects Research Laboratory, USEPA)
-
-Marcus Beck (Southern California Coastal Water Research Project)
-
-Mike McManus (National Center for Ecological Assessment, USEPA)
