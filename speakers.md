@@ -23,3 +23,7 @@ Anne Thessen - emailed 10/19, tentative yes
 Marcus Beck (Southern California Coastal Water Research Project)
 
 Mike McManus (National Center for Ecological Assessment, USEPA)
+
+Ann Vega (Office of Research and Development, USEPA) - tentative yes
+
+Hilary Dugan (University of Wiscontin) - emailed 10/23
