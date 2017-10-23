@@ -1,6 +1,6 @@
 #### Potential Presenters
 
-Greg Gearheart - emailed 10/5, responded 10/10, interested - need to follow up
+Greg Gearheart - emailed 10/5, responded 10/10, phone call on 10/20, will work with Erick Burres (Cali Waterboard)
 
 Matt Jones - emailed 10/6, responded 10/6, no but suggested others
 
@@ -18,7 +18,7 @@ Jeff Hollister - emailed 10/6, tentative yes
 
 Tom Philippi (NPS) - emailed 10/13, tentative yes
 
-Anne Thessen - emailed 10/19
+Anne Thessen - emailed 10/19, tentative yes
 
 Marcus Beck (Southern California Coastal Water Research Project)
 
