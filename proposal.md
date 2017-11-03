@@ -22,6 +22,8 @@ Dave Blodgett (Center for Integrated Data Analytics, USGS)
 
 Erick Burres (California State Water Resources Control Board)
 
+Stephanie Hampton (Washington State University)
+
 Jeff Hollister (National Health and Environmental Effects Research Laboratory, USEPA)
 
 Mike McManus (National Center for Ecological Assessment, USEPA)

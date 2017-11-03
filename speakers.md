@@ -2,6 +2,12 @@
 
 Greg Gearheart - emailed 10/5, responded 10/10, phone call on 10/20, will work with Erick Burres (Cali Waterboard)
 
+Kara Woo - emailed 11/2
+
+Stephanie Hampton - emailed 11/2, confirmed 11/2
+
+Patricia Soranno - emailed 11/2
+
 Matt Jones - emailed 10/6, responded 10/6, no but suggested others
 
 Leah Wasser - emailed 10/6
