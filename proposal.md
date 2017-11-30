@@ -24,13 +24,11 @@ Erick Burres (California State Water Resources Control Board)
 
 Stephanie Hampton (Washington State University)
 
-Jeff Hollister (National Health and Environmental Effects Research Laboratory, USEPA)
-
 Mike McManus (National Center for Ecological Assessment, USEPA)
 
 Tom Philippi (National Park Service)
 
-Anne Thessen (The Data Detektiv)
+Edward Sherwood (Tampa Bay Estuary Program)
 
 Ann Vega (Office of Research and Development, USEPA)
 
