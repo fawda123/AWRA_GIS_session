@@ -2,13 +2,15 @@
 
 Greg Gearheart - emailed 10/5, responded 10/10, phone call on 10/20, will work with Erick Burres (Cali Waterboard)
 
+Julie Padilla - emailed 12/1 
+
 Kara Woo - emailed 11/2, declined 11/3
 
 Stephanie Hampton - emailed 11/2, confirmed 11/2
 
 Patricia Soranno - emailed 11/2, declined, suggested Nicole Smith
 
-Nicole Smith - emailed 11/20 
+Nicole Smith - emailed 11/20, accepted 12/1
 
 Matt Jones - emailed 10/6, responded 10/6, no but suggested others
 

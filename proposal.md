@@ -30,6 +30,8 @@ Tom Philippi (National Park Service)
 
 Edward Sherwood (Tampa Bay Estuary Program)
 
-Ann Vega (Office of Research and Development, USEPA)
+Nicole Smith (Michigan State University)
+
+Anne Thessen (The Data Detektiv)
 
 
