@@ -2,7 +2,7 @@
 
 Greg Gearheart - emailed 10/5, responded 10/10, phone call on 10/20, will work with Erick Burres (Cali Waterboard)
 
-Julie Padilla - emailed 12/1 
+Julie Padilla - emailed 12/1, accepted 12/8
 
 Kara Woo - emailed 11/2, declined 11/3
 
