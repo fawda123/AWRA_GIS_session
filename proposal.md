@@ -14,7 +14,21 @@ Marcus Beck (SCCWRP).  Dr. Beck is an ecologist with the Southern California Coa
 
 Michael McManus (USEPA).  Dr. McManus is an ecologist at the United States Environmental Protection Agency in the Office of Research and Development at the National Center for Environmental Assessment. He has experience in the development and application of open science tools for spatial analysis of watersheds.  [mcmanus.michael@epa.gov](mailto:mcmanus.michael@epa.gov)
 
-#### Potential Presenters
+#### Presenters
+
+##### Session 1
+
+Mike McManus (National Center for Ecological Assessment, USEPA)
+
+James Silvanima (Florida Department of Environmental Protection)
+
+Nicole Smith (Michigan State University)
+
+Julie Padilla (Limnotech)
+
+##### Session 2
+
+Ed Sherwood (Tampa Bay Estuary Program)
 
 Marcus Beck (Southern California Coastal Water Research Project)
 
@@ -22,18 +36,11 @@ Dave Blodgett (Center for Integrated Data Analytics, USGS)
 
 Erick Burres (California State Water Resources Control Board)
 
-Stephanie Hampton (Washington State University)
+Norm Jones (Brigham Young University)
 
-Mike McManus (National Center for Ecological Assessment, USEPA)
 
-Julie Padilla (Limnotech)
 
-Tom Philippi (National Park Service)
 
-Edward Sherwood (Tampa Bay Estuary Program)
 
-Nicole Smith (Michigan State University)
-
-Anne Thessen (The Data Detektiv)
 
 
