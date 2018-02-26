@@ -34,9 +34,9 @@ Marcus Beck (Southern California Coastal Water Research Project)
 
 Dave Blodgett (Center for Integrated Data Analytics, USGS)
 
-Erick Burres (California State Water Resources Control Board)
-
 Norm Jones (Brigham Young University)
+
+Brian Gelder (Iowa State University)
 
 
 
